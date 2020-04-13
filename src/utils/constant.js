@@ -1,5 +1,3 @@
-export const APP_ID = 'wx8bed9cd4c1e9ff46'
-export const APP_SECRET = '11c70545485eed701ae1ff82b08a6d09'
 
 
 export const HOME_BOOK_MODE = {
